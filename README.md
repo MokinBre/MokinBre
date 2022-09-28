@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MokinBre
+- 👋 Hi, I’m @Lazar
 - 👀 I’m interested in becoming a programmer coming from different backgrounds.
-- 🌱 I’m currently learning Python, but I plan to move on to a more common language once I get the hang of it.
+- 🌱 I’m currently learning Python, and C++.
 - 💞️ I’m looking to collaborate on LEARNING! :D
 - 📫 How to reach me? Over here :D
 
