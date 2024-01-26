@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lazar
-- 👀 I’m interested in becoming a programmer coming from different backgrounds.
-- 🌱 I’m currently learning Python, and C++.
+- 👀 I’m interested in becoming a better programmer and eventualy a Salesforce B2B Solution Architect.
+- 🌱 I’m currently A Salesforce developer but I started by learning Python, and C++.
 - 💞️ I’m looking to collaborate on LEARNING! :D
 - 📫 How to reach me? Over here :D
 
